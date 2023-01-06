@@ -7,16 +7,16 @@ Preencha os campos abaixo de acordo com as intruções dadas.
 
 ## Definição do Grupo
 
-**Nome do grupo**: .. digite aqui..
+**Nome do grupo**: BCharts
 
-**Tema escolhido**: .. digite aqui..
+**Tema escolhido**: Cantores (solo e grupos)
 
-**Integrantes** (preencha abaixo):
+**Integrantes**:
 
-- 
-- 
-- 
-- 
+- Bruno de Almeida de Paula
+- Gabriel Augusto Lemos Silva
+- Mathias Silva Sousa
+- Olivia Campos
 
 
 ## Checklist para a Primeira Entrega
@@ -27,24 +27,24 @@ Preencha os campos abaixo de acordo com as intruções dadas.
 
 |  Id   |  Descrição                                                         | Respostas | 
 |-------|--------------------------------------------------------------------|-----------|
-| 2.1.1 | O sistema permite cadastrar itens?                                 | (sim/não) |
+| 2.1.1 | O sistema permite cadastrar itens?                                 | sim       |
 | 2.1.1 | O sistema usa o código fornecido para obter a descrição dos itens? | (sim/não) |
 | 2.1.1 | Se sim na resposta anterior, de qual Wiki?                         | (Wikipedia em português / ou outra?) |
 | 2.1.2 | O sistema permite visualizar os detalhes dos itens?                | (sim/não) |
-| 2.1.3 | O sistema permite excluir itens cadastrados?                       | (sim/não) |
+| 2.1.3 | O sistema permite excluir itens cadastrados?                       | sim       |
 | 2.1.4 | O sistema permite cadastrar usuários?                              | (sim/não) |
 | 2.1.4 | Há tratamento para os diferentes tipos de usuários?                | (sim/não) |
 | 3.1.3 | O código implementado tem bom design de classes?                   | (sim/não) |
 | 3.1.4 | O código implementado tem divisão de camadas?                      | (sim/não) |
 | 3.1.5 | O código faz uso de herança? Tem superclasse e subclasses?         | (sim/não) |
 | 3.1.6 | O código inicial fornecido pelo professor foi alterado?            | (sim/não) |
-| 3.1.7 | Como os itens são salvos?                                          | (arquivo texto? BD? Não são salvos?) |
-| 3.1.8 | Diagrama simplificado em PNG se encontra na pasta `doc`?           | (sim/não) |
+| 3.1.7 | Como os itens são salvos?                                          | arquivo de texto |
+| 3.1.8 | Diagrama simplificado em PNG se encontra na pasta `doc`?           | sim       |
 | 3.1.9 | Código enviado compila sem erros na versão 17 do Java?             | (sim/não) |
 | 3.1.9 | Implementação usa pacote `br.ufla.gac106.s2022_2.nomeDoGrupo`?     | (sim/não) |
 | 3.1.9 | Foi adicionada alguma biblioteca (arquivo `.jar`)?                 | (sim (qual?)/não) |
-| 3.1.9 | Código está legível, organizado e bem comentado?                   | (sim/não) |
-|       | Todos os integrantes contribuíram, inclusive na implementação?     | (sim/não (quais?)) |
+| 3.1.9 | Código está legível, organizado e bem comentado?                   | sim       |
+|       | Todos os integrantes contribuíram, inclusive na implementação?     | sim       |
 
 ## Checklist para a Entrega Final
 
